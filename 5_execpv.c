@@ -3,6 +3,7 @@
 #include <string.h>
 #include <sys/types.h>
 #include <sys/wait.h>
+#include <stdlib.h>
 
 #define MAX_COMMAND_LENGTH 100 // Максимальная длина команды
 #define MAX_ARGUMENTS 10 // Максимальное количество аргументов
